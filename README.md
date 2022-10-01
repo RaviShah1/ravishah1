@@ -1,6 +1,6 @@
 # Hi Everyone! Welcome to Ravi Shah's GitHub Profile!
 
-<a href="https://www.linkedin.com/in/ravi-n-shah1/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/ravishah1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
+<a href="https://www.kaggle.com/ravishah1"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ravi-n-shah1/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> 
 
 <!--
 **RaviShah1/ravishah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
