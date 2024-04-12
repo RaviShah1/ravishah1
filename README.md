@@ -2,7 +2,9 @@
 
 ## About
 Hi! I am Ravi, and I am someone looking for an adventure. I love studying complexity and using my mathematically wired mind to break down complex topics into simple understandable concepts. I am naturally someone who enjoys problem solving, and I seek out challenges to learn new things. 
+
 I strive to push the limits in anything I do as my favorite quote is “Pressure is a Privilege” - Billie Jean King.
+
 I am also a very curious person. I strive to discover intersections between domains and typically apply computer science at that intersection. From designing pose detection AI models analyzing my tennis serve to training protein folding models, I am always learning something new. This is one of the reasons I enjoy competing in interdisciplinary competitions on Kaggle where I rank in the top 1% of competitors and became a Kaggle Grandmaster by becoming the 15th most upvoted user on the platform of over 10 million people. 
 
 Fun Facts:
