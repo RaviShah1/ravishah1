@@ -21,7 +21,7 @@ Fun Facts:
 | Event | Accomplishment | Cash Prize | Date |
 | :--- | :---: | :---: | :---: |
 |  [Google Cloud Next '24 Kaggle Hackathon](https://www.kaggle.com/competitions/next-2024-hackathon/discussion/492773) | 2nd Place Prize | $7000 | 04/2024 |
-| [Kaggle Discussions]([https://www.kaggle.com/ravishah1/discussion](https://kaggle.com/ravishah1/discussion?orderBy=votes)) | Grandmaster | - | 08/2023 |
+| [Kaggle Discussions](https://kaggle.com/ravishah1/discussion?orderBy=votes) | Grandmaster | - | 08/2023 |
 | [Hebron High School Class Rank (GPA)](https://www.hebronhawkeye.com/feature/2023/05/15/salutatorian-shah/) | Salutatorian (Rank 2 out of 942) | - | 05/2023 |
 | [Learn Platform Challenge](https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/discussion/287019) | Honorable Mention | - | 09/2021 |
 | [COVID-19 Data Challenge](https://mexico.ucsd.edu/initiatives/border-solutions/data-challenge.html) | 3rd Place | $150 | 09/2020 |
